@@ -10,15 +10,15 @@ Después de que una orden es Asignada y Ondulada habrá al menos una etiqueta de
 
 ![P4 Warehouse Order that is Allocated and waved](<../../.gitbook/assets/image (180).png>)
 
-Now the PDT user can enter the Pick Ticket Picking menu under the Fulfillment menu. Once on the Pick Ticket Picking screen scan the Pick Label (Tote Label) to start the picking process.
+Ahora el usuario de PDT puede acceder al menú de Recogida de Ticket Pick dentro del menú Fulfillment. Una vez en la pantalla de Recogida de Ticket Pick, escanee la Etiqueta de Recogida (Tote Label) para iniciar el proceso de picking.
 
 ![P4 Warehouse Pick Ticket Picking](<../../.gitbook/assets/image (178).png>)
 
-After scanning the label, the user will be presented with the required data to begin the picking process for the order.&#x20;
+Después de escanear la etiqueta, el usuario verá los datos necesarios para comenzar el proceso de picking de la orden.
 
 {% hint style="info" %}
-On the Android device (PDT) the instructions are always at the bottom of the screen, action buttons are at the top of the screen.
+En el dispositivo Android (PDT), las instrucciones siempre aparecen en la parte inferior de la pantalla y los botones de acción en la parte superior.
 {% endhint %}
 
-In the screen above the user needs to take a pallet and good to Bin A-20-a to pick a 148 units of SKU 01600BK11005.
+En la pantalla anterior, el usuario debe tomar un palet y dirigirse al Bin A-20-a para recoger 148 unidades del SKU 01600BK11005.
 

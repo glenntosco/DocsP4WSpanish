@@ -21,7 +21,7 @@ Una vez aprobado el recuento cíclico, la ubicación de los contenedores refleja
 ![P4 Warehouse tras la aprobación del recuento de ciclos](<../.gitbook/assets/image (288).png>)
 
 {% hint style="info" %}
-ISi desea que los recuentos de ciclos se apliquen inmediatamente, en la configuración deberá desactivar la opción de aprobaciones de recuentos de ciclos.
+Si desea que los recuentos de ciclos se apliquen inmediatamente, en la configuración deberá desactivar la opción de aprobaciones de recuentos de ciclos.
 {% endhint %}
 
 

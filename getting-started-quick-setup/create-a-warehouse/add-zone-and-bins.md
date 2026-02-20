@@ -40,7 +40,7 @@ Si pone una zona en cuarentena, no podrá asignar el inventario de esta zona.
 
 La máscara de zona es una función especialmente importante, que gestiona mejor el equipo de implantación. La máscara de zona le ayudará a crear cientos o miles de ubicaciones de contenedores. Estructura de la Máscara: Los segmentos de la máscara están dentro de { } cada segmento está numerado. A continuación se muestran un par de ejemplos con los resultados.
 
-* 01-A-{0:00}-(1:0} = 01-A-12-A&#x20;
+* 01-A-{0:00}-{1:0} = 01-A-12-A&#x20;
   * Este formato es pasillo, zona, contenedor, nivel
 * A-{0:00}-{1:0} = A-03-A
   * Este formato es Zona, Contenedor, Nivel

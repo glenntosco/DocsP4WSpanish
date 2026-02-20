@@ -1,6 +1,6 @@
 # Perfiles de cartonización
 
-Entre en la Configuración del Perfil de cartonización, aquí creará diferentes perfiles dependiendo de la normativa de Cumplimiento de su cliente, o transportista de pequeña paquetería.&#x20;
+Entre en la Configuración del Perfil de cartonización, aquí creará diferentes perfiles dependiendo de la normativa de cumplimiento de su cliente, o transportista de pequeña paquetería.&#x20;
 
 Ejemplo: FedEx tiene un límite de peso de 150lb por caja.
 
