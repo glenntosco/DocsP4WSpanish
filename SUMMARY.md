@@ -12,7 +12,7 @@
   * [Añadir zona](getting-started-quick-setup/create-a-warehouse/add-zone-and-bins.md)
   * [Puerta de almacén](getting-started-quick-setup/create-a-warehouse/puerta-de-almacen.md)
 * [Crear usuarios](getting-started-quick-setup/create-users.md)
-* [Crear un producto](getting-started-quick-setup/untitled-1.md)
+* [Crear un producto](getting-started-quick-setup/create-a-product.md)
 * [Crear proveedor](getting-started-quick-setup/create-provider.md)
 * [Crear cliente](getting-started-quick-setup/create-customer.md)
 * [Configurar impresoras](getting-started-quick-setup/setup-printers.md)
@@ -60,7 +60,7 @@
     * [Automatización](setup/system-configuration/receiving/automation.md)
     * [Dispositivos portátiles](setup/system-configuration/receiving/handhelds.md)
     * [Operaciones](setup/system-configuration/receiving/operations.md)
-    * [Entrada de datos](setup/system-configuration/receiving/data-entery.md)
+    * [Entrada de datos](setup/system-configuration/receiving/data-entry.md)
   * [Calendario](setup/system-configuration/calendar.md)
   * [Códigos de motivos](setup/system-configuration/reason-codes-1.md)
 * [Productos](setup/products/README.md)
@@ -167,7 +167,7 @@
 ## Receiving
 
 * [Información general sobre la recepción](receiving/general.md)
-* [Lista de pedidos](receiving/untitled.md)
+* [Lista de pedidos](receiving/po-list.md)
 * [Recepción de pedidos](receiving/po-receiving.md)
 * [Foto PO](receiving/po-photo.md)
 * [Código de barras del producto](receiving/product-barcode.md)
@@ -180,7 +180,7 @@
   * [Lista de recogida](fulfillment-1/picking/pick-list.md)
   * [Recogida de Ticket Pick](fulfillment-1/picking/pick-ticket-picking.md)
   * [Recogida de olas](fulfillment-1/picking/wave-picking.md)
-  * [Recogida de paquetes completos](fulfillment-1/picking/untitled.md)
+  * [Recogida de paquetes completos](fulfillment-1/picking/full-pack-picking.md)
   * [Recogida de cajas](fulfillment-1/picking/carton-picking.md)
 * [Puesta en escena](fulfillment-1/staging/README.md)
   * [Fusión de totes](fulfillment-1/staging/tote-merge.md)
@@ -203,39 +203,39 @@
 
 ## RMA
 
-* [Proceso de devolución](rma/untitled/README.md)
-  * [Lista RMA](rma/untitled/rma-list.md)
-  * [Recepción de RMA](rma/untitled/rma-receiving.md)
-  * [Photo](rma/untitled/photo.md)
-  * [Recepción sin RMA](rma/untitled/non-rma-receiving.md)
-  * [Anular la recepción de RMA](rma/untitled/un-receive-rma.md)
+* [Proceso de devolución](rma/process/README.md)
+  * [Lista RMA](rma/process/rma-list.md)
+  * [Recepción de RMA](rma/process/rma-receiving.md)
+  * [Photo](rma/process/photo.md)
+  * [Recepción sin RMA](rma/process/non-rma-receiving.md)
+  * [Anular la recepción de RMA](rma/process/un-receive-rma.md)
 
 ## Production
 
-* [Proceso de producción](production-1/untitled/README.md)
-  * [Lista de órdenes de trabajo](production-1/untitled/work-order-list.md)
-  * [Elegir](production-1/untitled/picking.md)
-  * [Producción](production-1/untitled/production.md)
+* [Proceso de producción](production-1/process/README.md)
+  * [Lista de órdenes de trabajo](production-1/process/work-order-list.md)
+  * [Elegir](production-1/process/picking.md)
+  * [Producción](production-1/process/production.md)
 
 ## Adjustments
 
-* [Proceso de ajuste](adjustments/untitled/README.md)
-  * [Vendor Return](adjustments/untitled/vendor-return.md)
-  * [Adjust in](adjustments/untitled/adjust-in.md)
-  * [Adjust in by Bin](adjustments/untitled/adjust-in-by-bin.md)
-  * [Adjust out](adjustments/untitled/adjust-out.md)
-  * [Adjust out by bin](adjustments/untitled/adjust-out-by-bin.md)
+* [Proceso de ajuste](adjustments/process/README.md)
+  * [Vendor Return](adjustments/process/vendor-return.md)
+  * [Adjust in](adjustments/process/adjust-in.md)
+  * [Adjust in by Bin](adjustments/process/adjust-in-by-bin.md)
+  * [Adjust out](adjustments/process/adjust-out.md)
+  * [Adjust out by bin](adjustments/process/adjust-out-by-bin.md)
 
 ## Miscellaneous
 
 * [Dimensiones de la paleta](miscellaneous/pallet-dimensions.md)
-* [Inventario](miscellaneous/untitled/README.md)
-  * [Convertir tamaño de paquete](miscellaneous/untitled/packsize-convert.md)
-  * [Movimiento de producto](miscellaneous/untitled/product-move.md)
-  * [Movimiento de Ubicación](miscellaneous/untitled/full-bin-move.md)
-  * [Contenido Bin](miscellaneous/untitled/bin-contents.md)
-  * [Convertidor de tamaño de paquete](miscellaneous/untitled/packsize-breakdown.md)
-  * [Sustituto Convertir](miscellaneous/untitled/substitute-convert.md)
+* [Inventario](miscellaneous/inventory/README.md)
+  * [Convertir tamaño de paquete](miscellaneous/inventory/packsize-convert.md)
+  * [Movimiento de producto](miscellaneous/inventory/product-move.md)
+  * [Movimiento de Ubicación](miscellaneous/inventory/full-bin-move.md)
+  * [Contenido Bin](miscellaneous/inventory/bin-contents.md)
+  * [Convertidor de tamaño de paquete](miscellaneous/inventory/packsize-breakdown.md)
+  * [Sustituto Convertir](miscellaneous/inventory/substitute-convert.md)
 * [A Granel - LPN](miscellaneous/bulk/README.md)
   * [Bajada de LPN por Bin](miscellaneous/bulk/lpn-letdown-by-bin.md)
   * [Bajada de LPN por Sku](miscellaneous/bulk/lpn-letdown-by-sku.md)
