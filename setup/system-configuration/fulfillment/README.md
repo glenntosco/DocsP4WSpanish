@@ -1,0 +1,15 @@
+---
+description: P4 Warehouse
+---
+
+# Gestión de pedidos
+
+**Entrada de Datos** - Esta página de configuración ofrece opciones para editar el Prefijo del Número de Ticket de Recogida, Tipo de Carga por Defecto (LTL, Paquete Pequeño u Otro), Recuento por Defecto al Embarcar, Firma por Defecto al Embarcar, Recuento por Defecto al Entregar, Firma por Defecto al Entregar, y Tipo de Entrada de Tamaño de Paquete (Paquetes o Eaches). Un Prefijo de Recogida típico puede ser «PCK-» (que precederá a los números de ticket de recogida). El Tipo de entrada de tamaño de paquete se establece por defecto en Paquetes. Después de modificar cualquier entrada, seleccione el botón «Guardar» en la parte inferior derecha.<br>
+
+**Automatización** - Esta página de configuración presenta Auto Asignar al Liberar al Piso (si una orden debe auto asignarse al ser liberada al piso; Sí/No conmutar), Auto Ondular al Asignar (si una orden debe auto ondular al asignarse; Sí/No conmutar), Auto Enviar al Último Recogido (si una orden debe auto enviar al último recogido; Sí/No conmutar) y Auto Cerrar al Enviar (si una orden debe auto cerrar al enviar; Sí/No conmutar). Ambos valores por defecto son «No». Después de modificar cualquier entrada, seleccione el botón «Guardar» en la parte inferior derecha.
+
+**Asignación** - Esta página de configuración presenta Zonas a Incluir (lista separada por comas de las zonas a incluir en la asignación; ejemplo A1,B2,C3), Estilo de Asignación (opciones para el comportamiento de la asignación; FIFO=Primera entrada, Primera salida; LIFO=Última entrada, Primera salida; Nombre de Contenedor=Basado en clasificación alfanumérica de contenedores; Personalizado=Basada en clasificación alfanumérica del valor del Número de Secuencia del contenedor: por defecto FIFO) Opciones en corto (opciones para el comportamiento en corto; Ship Short permitirá el envío de pedidos en corto; Hold Short no liberará un pedido para picking pero reserva el stock; por defecto: Ship Short), Allocate Bulk (incluir LPNs en las zonas de picking durante la asignación para hacer picking; Yes/No toggle, default: No), Permiso de caducidad (número mínimo de días que debe permitirse en un producto caducado para ser asignado, esta opción es anulada por una configuración del cliente; por defecto: 45) y Asignar cadaes (si se permite asignar cadaes para artículos de tamaño de envase controlado; alternar Sí/No, por defecto: Sí). Después de modificar cualquier entrada, seleccione el botón «Guardar» en la parte inferior derecha.<br>
+
+**Ondulación** - Esta página de configuración presenta el Tipo de Embalaje SSCC (las opciones son Caja o Cartón, Paleta, Uso Intracompañía o Indefinido), ID Global de Compañía SSCC, Prefijo de Número de Onda (por defecto: WV), Ondulación Multizona (casilla de verificación), Número de Cartones (por defecto: 1) y Número de Copias (por defecto: 1). Después de modificar cualquier entrada, seleccione el botón «Guardar» en la parte inferior derecha. a. Si un pedido no es Ondulado, pasará a un Estado No Asignado (Asignando reservas de stock en el almacén específicamente para su pick tick). <br>
+
+<br>
