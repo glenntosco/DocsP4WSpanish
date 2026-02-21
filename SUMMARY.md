@@ -2,7 +2,7 @@
 
 * [Registro de cambios P4 Warehouse](README.md)
 
-## Getting Started Quick Setup
+## Inicio Rápido
 
 * [Resumen](getting-started-quick-setup/overview.md)
 * [Preguntas Frecuentes (FAQ)](getting-started-quick-setup/faq.md)
@@ -17,9 +17,9 @@
 * [Crear cliente](getting-started-quick-setup/create-customer.md)
 * [Configurar impresoras](getting-started-quick-setup/setup-printers.md)
 
-## Web Documentation
+## Documentación Web
 
-## Setup
+## Configuración
 
 * [Dispositivos móviles activos](setup/active-mobile-devices.md)
 * [Configuración del arrendatario](setup/tenant-configuration.md)
@@ -87,13 +87,13 @@
   * [Creación de informes](setup/reports-and-kpi/report-creation.md)
   * [Creación de KPI](setup/reports-and-kpi/kpi-creation.md)
 
-## Permissions- Users
+## Permisos - Usuarios
 
 * [Perfiles de permisos](permissions-users/modules-permissions.md)
 * [Añadir usuarios](permissions-users/add-users.md)
 * [Sesiones de usuario](permissions-users/user-sessions.md)
 
-## Printing & Labels
+## Impresión y Etiquetas
 
 * [Impresoras](printing-and-labels/printers/README.md)
   * [Cola de impresión](printing-and-labels/printers/print-queue.md)
@@ -103,7 +103,7 @@
   * [Plantillas](printing-and-labels/labels/templates.md)
   * [Diseño de etiquetas](printing-and-labels/labels/label-design.md)
 
-## Fulfillment
+## Gestión de Pedidos
 
 * [Configuración operativa de cumplimiento](fulfillment/fulfillment-operational-setup/README.md)
   * [Cliente](fulfillment/fulfillment-operational-setup/customer.md)
@@ -123,7 +123,7 @@
 * [Entrega](fulfillment/delivery.md)
 * [Puesta en escena](fulfillment/staging.md)
 
-## Purchasing
+## Compras
 
 * [Proveedores](purchasing/vendors.md)
 * [Calendario de recepción](purchasing/receiving-calendar.md)
@@ -131,40 +131,40 @@
 * [Órdenes de compra cerradas](purchasing/closed-purchase-orders.md)
 * [Recepción LPN](purchasing/lpn-receiving.md)
 
-## Production
+## Producción
 
 * [Flujo de trabajo de producción](production/flujo-de-trabajo-de-produccion.md)
 * [Órdenes de trabajo abiertas](production/open-work-orders.md)
 * [Órdenes de trabajo cerradas](production/closed-work-orders.md)
 
-## Returns - RMA
+## Devoluciones - RMA
 
 * [Devoluciones abiertas](returns-rma/open-returns.md)
 * [Devoluciones cerradas](returns-rma/closed-returns.md)
 
-## 3rd Party Logistics
+## Logística de Terceros (3PL)
 
 * [Perfiles de facturación 3PL](3rd-party-logistics/billing-profiles.md)
 * [Clientes 3PL](3rd-party-logistics/clients.md)
 * [Facturación de clientes 3PL](3rd-party-logistics/invoicing.md)
 
-## Collaboration
+## Colaboración
 
 * [Tarea](collaboration/task.md)
 * [Aprobación del recuento de ciclos](collaboration/cycle-count-approval.md)
 
-## Analytics - Reporting
+## Análisis - Informes
 
 * [Reportes](analytics-reporting/reports/README.md)
   * [Crear informes](analytics-reporting/reports/create-reports.md)
 * [KPI](analytics-reporting/kpi/README.md)
   * [Creación de KPI](analytics-reporting/kpi/create-kpi.md)
 
-## Mobile Device Documentation
+## Documentación Dispositivos Móviles
 
 * [Información para Android Móvil](mobile-device-documentation/general.md)
 
-## Receiving
+## Recepción
 
 * [Información general sobre la recepción](receiving/general.md)
 * [Lista de pedidos](receiving/po-list.md)
@@ -174,7 +174,7 @@
 * [Anular la recepción de un pedido](receiving/un-receive-po.md)
 * [Recepción sin OP](receiving/non-po-receiving.md)
 
-## Fulfillment
+## Gestión de Pedidos (Móvil)
 
 * [Recogida](fulfillment-1/picking/README.md)
   * [Lista de recogida](fulfillment-1/picking/pick-list.md)
@@ -201,7 +201,7 @@
   * [Ship](fulfillment-1/shipping-truck-loads/ship.md)
   * [Photo](fulfillment-1/shipping-truck-loads/photo.md)
 
-## RMA
+## RMA (Devoluciones)
 
 * [Proceso de devolución](rma/process/README.md)
   * [Lista RMA](rma/process/rma-list.md)
@@ -210,14 +210,14 @@
   * [Recepción sin RMA](rma/process/non-rma-receiving.md)
   * [Anular la recepción de RMA](rma/process/un-receive-rma.md)
 
-## Production
+## Producción (Móvil)
 
 * [Proceso de producción](production-1/process/README.md)
   * [Lista de órdenes de trabajo](production-1/process/work-order-list.md)
   * [Elegir](production-1/process/picking.md)
   * [Producción](production-1/process/production.md)
 
-## Adjustments
+## Ajustes
 
 * [Proceso de ajuste](adjustments/process/README.md)
   * [Vendor Return](adjustments/process/vendor-return.md)
@@ -226,7 +226,7 @@
   * [Adjust out](adjustments/process/adjust-out.md)
   * [Adjust out by bin](adjustments/process/adjust-out-by-bin.md)
 
-## Miscellaneous
+## Misceláneos
 
 * [Dimensiones de la paleta](miscellaneous/pallet-dimensions.md)
 * [Inventario](miscellaneous/inventory/README.md)
@@ -251,14 +251,14 @@
   * [Foto del producto](miscellaneous/products/product-location.md)
   * [Ubicación del producto](miscellaneous/products/product-photo.md)
 
-## Collaboration
+## Colaboración (Móvil)
 
 * [Asignación de tareas](collaboration-1/task.md)
 * [Mensajería - Chat](collaboration-1/messaging.md)
 
-## Contact Us
+## Contáctenos
 
-* [Support](contact-us/support/README.md)
+* [Soporte](contact-us/support/README.md)
   * [Costa Rica](contact-us/support/costa-rica.md)
   * [USA](contact-us/support/usa.md)
   * [Peru](contact-us/support/peru.md)
@@ -266,7 +266,7 @@
   * [Mexico](contact-us/support/mexico.md)
   * [Ecuador](contact-us/support/ecuador.md)
 
-## REST API
+## API REST
 
 * [P4Warehouse REST API](rest-api/p4warehouse-rest-api.md)
 * [Product Master](rest-api/product-master/README.md)
